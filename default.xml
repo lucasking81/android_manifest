@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="origin"
+           fetch="https://172.16.0.40:2048/rom/coship/"
+           review="https://172.16.0.40:2048/rom/coship/" />
+
+
+  <default revision="master"
+           remote="origin" />
+ 
+  <project  path="coship" name="coship" />
+ 
+</manifest>
+	
