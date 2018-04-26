@@ -2,14 +2,14 @@
 <manifest>
 
   <remote name="origin"
-           fetch="https://172.16.0.40:2048/rom/coship"
-           review="https://172.16.0.40:2048/rom/coship" />
+           fetch="https://172.16.0.40:2048/rom"
+           review="https://172.16.0.40:2048/rom" />
 
 
   <default revision="master"
            remote="origin" />
  
-  <project  path="/" name="/" />
+  <project  path="coship" name="coship" />
  
 </manifest>
 	
