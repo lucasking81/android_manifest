@@ -9,7 +9,7 @@
   <default revision="master"
            remote="origin" />
  
-  <project  path="coship" name="coship" />
+  <project  path="zowee" name="zowee" />
  
 </manifest>
 	
