@@ -6,7 +6,7 @@
            review="http://172.16.0.40:2048/rom" />
 
 
-  <default revision="master"
+  <default revision="develop"
            remote="origin" />
  
   <project  path="zowee" name="zowee" />
